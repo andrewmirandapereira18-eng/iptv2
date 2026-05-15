@@ -1,6 +1,36 @@
 #EXTM3U
 
-#EXTINF 
+#EXTINF:-1 tvg-name="Samsung TV Plus" group-title="TV",Samsung TV Plus
+https://jmp2.uk/sam-CHBJ3300001BH.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Cinema" group-title="Filmes",Pluto TV Cinema
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac52f142044f00078e2a51/master.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Action" group-title="Filmes",Pluto TV Action
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8
+
+#EXTINF:-1 tvg-name="Canal Rural" group-title="Brasil",Canal Rural
+https://video01.logicahost.com.br/canalrural/canalrural/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV Cultura" group-title="Brasil",TV Cultura
+https://5c483b9d1019c.streamlock.net/8062/8062/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Rede Brasil" group-title="Brasil",Rede Brasil
+https://cdn.jmvstream.com/w/LVW-8415/LVW8415_5RdMtgZz9J/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="NASA TV" group-title="Documentários",NASA TV
+https://ntv1.teleosmedia.com/stream/b1b36f4c-1b2d-4d66-a7d8-6cfb9fc5f4ff/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Bloomberg TV" group-title="Notícias",Bloomberg TV
+https://bloomberg-bloomberg-1-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Revry" group-title="Entretenimento",Revry
+https://linear-01.frequency.stream/dist/glewedtv/01/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="WeatherSpy" group-title="Documentários",WeatherSpy
+https://weatherspy-weather-1.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF: 1 MUSICA
 https://iptv-org.github.io/iptv/languages/por.m3u
 
 #EXTINF
